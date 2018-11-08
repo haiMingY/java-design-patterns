@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-//图表工厂类：工厂类  
+// 图表工厂类：工厂类  
 // 普通 工厂
 // class ChartFactory {
 //     public static Chart getChart(String type) {
